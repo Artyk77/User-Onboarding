@@ -6,8 +6,8 @@
 html,
 body {
   height: 100%;
-  margin: 0;
-  padding: 0;
+  margin: 50px;
+  padding: 50px;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   font-size: 14px;
   line-height: 1.5;
-  color: #24292e;
+  color: white;
   background-image: url('https://wallpaperplay.com/walls/full/8/4/c/20628.jpg');
   background-color: #cccccc;
   background-position: center;
